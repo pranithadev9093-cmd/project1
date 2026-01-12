@@ -1,0 +1,8 @@
+order_id,customer_id,product_id,quantity,price,order_date,store_id,city
+5001,1,101,5,1.50,2023-11-01,10,New York
+5002,1,103,1,3.20,2023-11-01,10,New York
+5003,2,102,6,0.80,2023-11-02,11,Los Angeles
+5004,3,104,2,2.50,2023-11-03,12,Chicago
+5005,1,106,1,8.50,2023-11-05,10,New York
+5006,4,101,3,1.50,2023-11-06,13,Houston
+5007,5,105,2,4.00,2023-11-07,10,New York

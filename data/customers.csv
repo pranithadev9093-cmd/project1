@@ -1,0 +1,7 @@
+customer_id,name,age,gender,city,country,created_at
+1,John Doe,34,Male,New York,USA,2023-01-15
+2,Jane Smith,28,Female,Los Angeles,USA,2023-02-10
+3,Alice Johnson,45,Female,Chicago,USA,2023-03-05
+4,Bob Brown,52,Male,Houston,USA,2023-01-20
+5,Charlie Davis,30,Male,New York,USA,2023-04-12
+6,Diana Evans,26,Female,San Francisco,USA,2023-05-18

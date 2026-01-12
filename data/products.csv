@@ -1,0 +1,7 @@
+product_id,product_name,category_id,price
+101,Apple,1,1.50
+102,Banana,1,0.80
+103,Milk,2,3.20
+104,Bread,3,2.50
+105,Eggs,2,4.00
+106,Chicken,4,8.50
